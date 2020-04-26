@@ -1,5 +1,6 @@
-# front-end-certificates
-Collection of Front-End Web Developer Certificates
+# web developer certificates
+Collection of Web Developer Certificates
+![alt text](https://raw.githubusercontent.com/GeorgeChristopherLopez/certificates/master/FreeCodeCamp/javascript-data-structures-and-algorithms.png "javascript algorithms and data structures")
 
 ![alt text](https://raw.githubusercontent.com/GeorgeChristopherLopez/front-end-certificates/master/HTML%20Fundamentals.jpg "html fundamentals")
 
