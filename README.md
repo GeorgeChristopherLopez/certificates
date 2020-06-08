@@ -1,5 +1,11 @@
 # web developer certificates
 Collection of Web Developer Certificates
+
+![alt text](https://raw.githubusercontent.com/GeorgeChristopherLopez/certificates/master/FreeCodeCamp/javascript-algorithms-and-data-structures.png)
+
+![alt text](https://raw.githubusercontent.com/GeorgeChristopherLopez/certificates/master/FreeCodeCamp/responsive-web-design.png)
+
+
 ![alt text](https://raw.githubusercontent.com/GeorgeChristopherLopez/front-end-certificates/master/responsive-web-design.png "responsive web design")
 
 
